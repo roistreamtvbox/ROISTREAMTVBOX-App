@@ -1,6 +1,6 @@
 {
-  "versionCode": 1,
-  "versionName": "2",
-  "releaseNotes": "NEW VER ROISTREAMTVBOX",
-  "apkUrl": "https://github.com/roistreamtvbox/ROISTREAMTVBOX-App/releases/download/v1.1.1/ROIStreamTvBOX.v1.1.1.apk"
+  "versionCode": 2,
+  "versionName": "1.1.1",
+  "releaseNotes": "NEW VER ROISTREAMTVBOX - Fixes update flow and audio support",
+  "apkUrl": "https://github.com/roistreamtvbox/ROISTREAMTVBOX-App/releases/download/v1.1.1/ROIStreamBox.v1.1.1.apk"
 }
